@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Un poco Sobre mi:
 Hola soy Ismael un apasionado ingeniero en sistemas computacionales de México, especializado en el desarrollo web, particularmente en el área de back-end.<br><br>🔭 Experiencia Profesional<br>Desarrollo Web Back-End: Manejo de diversas tecnologías y frameworks para crear aplicaciones robustas y eficientes.<br>Mantenimiento y Armado de PCs: Disfruto de optimizar y ensamblar equipos para obtener el mejor rendimiento.<br>Arduino y Electrónica: Experiencia en proyectos con Arduino y otros componentes electrónicos.<br>Ciberseguridad: Conocimientos en técnicas de seguridad informática para proteger datos y sistemas.<br>🎮 Intereses Personales<br>Videojuegos: Apasionado por el mundo de los videojuegos, tanto como jugador como desarrollador.<br>Animación: Me encanta explorar el mundo de la animación y su relación con la tecnología.<br>Componentes Electrónicos: Interés en el funcionamiento y mejora de componentes electrónicos.<br>Ciberseguridad: Siempre en busca de aprender más sobre cómo proteger y asegurar sistemas informáticos.
 
 
